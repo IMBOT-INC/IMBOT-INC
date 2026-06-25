@@ -14,4 +14,76 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 187 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                806 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌆 Daytime                1153 commits        ██████████░░░░░░░░░░░░░░░   39.95 % 
+🌃 Evening                729 commits         ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+🌙 Night                  198 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Tuesday                  653 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Wednesday                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Thursday                 460 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Friday                   877 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
+Saturday                 44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Sunday                   237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      7 repos             ████████████████░░░░░░░░░   63.64 % 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/IMBOT-INC/IMBOT-INC/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/06/2026 19:47:26 UTC
 <!--END_SECTION:waka-->
