@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -83,5 +85,5 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IMBOT-INC/IMBOT-INC/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2026 19:50:41 UTC
+ Last Updated on 27/06/2026 03:32:46 UTC
 <!--END_SECTION:waka-->
